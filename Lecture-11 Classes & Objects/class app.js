@@ -14,4 +14,6 @@ class ToyotaCar {
 }
 
 let fortuner = new ToyotaCar("fortuner",10); //constructor
+console.log(fortuner);
 let lexus = new ToyotaCar("lexus",12); //constructor
+console.log(lexus)

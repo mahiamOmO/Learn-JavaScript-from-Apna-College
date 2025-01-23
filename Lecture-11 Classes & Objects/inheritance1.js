@@ -12,4 +12,11 @@ class Engineer  extends Person {
         console.log("solve problems,build something");
     }
 }
+
+class Doctor extends Person {
+    work() {
+        console.log("treat patients");
+    }
+}
+
 let momoObj = new Engineer();

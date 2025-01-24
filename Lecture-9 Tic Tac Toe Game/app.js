@@ -16,11 +16,15 @@ const winPatterns = [
     [3, 4, 5],
     [6, 7, 8],
 ];
+const resetGame = () => {
+    turn0 = true;
+    enableBoxes();
+    msgContainer.classList.add("hide");
+}
 
 // Fixing the typo and making the loop functional
 boxes.forEach((box) => {
     box.addEventListener("click", () => {
-        console.log("box was clicked");
         if(turnO){ //playerO
             box.innerText = "O";
             turnO = false;
@@ -59,4 +63,8 @@ const checkWiner = () => {
        
     }
 
-}
+};
+
+newGameBtn.addEventListener("click",resetGame);
+resetBtn.addEventListener("click",resetGame);
+

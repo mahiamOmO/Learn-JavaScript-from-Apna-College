@@ -63,7 +63,11 @@ body {
 }
 
 .msg-container {
-    height: 30vmin;
+    height: 80vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
     
 .hide {

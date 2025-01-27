@@ -67,17 +67,17 @@ This repository documents my journey of learning JavaScript through the **Apna C
 1. **Tic Tac Toe** 🎮  
    - **Description:** A two-player game with an interactive interface, allowing players to alternate turns and check for a winner or draw.  
    - **Technologies Used:** JavaScript, HTML, CSS  
-   - **Folder:** [`TicTacToe`](./https://github.com/mahiamOmO/Tic-Tac-Toe-Game)  
+   - **Folder:** [`TicTacToe`](https://github.com/mahiamOmO/Tic-Tac-Toe-Game)  
 
 2. **Rock Paper Scissors** ✊✋✌️  
    - **Description:** A classic game where the user competes against the computer, with randomized computer choices and real-time result tracking.  
    - **Technologies Used:** JavaScript, HTML, CSS  
-   - **Folder:** [`RockPaperScissors`](./https://github.com/mahiamOmO/Rock-Paper-Scissors-Game)  
+   - **Folder:** [`RockPaperScissors`](https://github.com/mahiamOmO/Rock-Paper-Scissors-Game)  
 
 3. **Currency Converter** 💱  
    - **Description:** A dynamic application for converting currencies in real-time using exchange rates.  
    - **Technologies Used:** JavaScript, HTML, CSS  
-   - **Folder:** [`CurrencyConverter`](./https://github.com/mahiamOmO/Currency-Converter)  
+   - **Folder:** [`CurrencyConverter`](https://github.com/mahiamOmO/Currency-Converter)  
 
 ---
 
